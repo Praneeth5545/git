@@ -1,2 +1,9 @@
 hello buddy
+<<<<<<< Updated upstream
 git branch
+=======
+git branchgit 
+fvjbgibvk
+kntrgjg
+gtngjtio
+>>>>>>> Stashed changes
