@@ -1,5 +1,5 @@
 hello buddy
-<<<<<<< Updated upstream
+<<<<<<< Updategit d upstream
 git branch
 =======
 git branchgit 
